@@ -1,0 +1,21 @@
+{
+  "name": "Anoop Sharma - Staff ML Engineer",
+  "short_name": "Anoop Sharma",
+  "description": "Staff ML Engineer specializing in production-grade solutions in Natural Language Processing and Computer Vision.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
