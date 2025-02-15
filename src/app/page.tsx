@@ -84,6 +84,13 @@ export default function Home() {
                     {section}
                   </motion.button>
                 ))}
+              <motion.a
+                href="AnoopSharma.pdf" 
+                download 
+                className="text-sm font-mono text-neutral-400 hover:text-neutral-200 transition-colors"
+              >
+          download
+        </motion.a>
               </div>
             </div>
           </div>
